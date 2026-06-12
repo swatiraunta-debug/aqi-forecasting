@@ -6,8 +6,8 @@ mlruns/
 mlflow.db
 notebooks/
 data/raw/
-data/processed/
-models/
+# data/processed/
+# models/
 *.pkl
 *.pt
 *.npy
